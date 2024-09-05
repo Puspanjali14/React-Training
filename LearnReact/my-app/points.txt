@@ -1,0 +1,56 @@
+component:
+component are the function whose first letter are capital
+it is called by using Tag
+component must return only one wrapper
+component is the custom tag
+
+    if pros is other string always wrap  it by {}
+
+Address:
+call at app
+City,exactlocation 
+get
+
+boolen are not display in browser
+
+
+Homework:
+Create User =>NavLink
+users => Routes
+Make From with field
+name
+age
+Address
+gender in select
+email
+password
+
+Frontend=Browse
+Frontend request backend
+    1.Create ---Post
+    2.Read---Get
+    3.Update---Patch
+    4.Delete---Delete
+Frontend request Backend by the help of Url and Method 
+
+//Create
+url:`http://localost:4000/products`
+method:"post"
+data:data
+
+//read all
+url:`http://localost:4000/products`
+method:"get"
+
+url:`http://localost:4000/products/4c52`
+method:"get"
+
+//update 
+url:`http://localost:4000/products/1`
+method:"patch"
+data:data
+
+//delete 
+url:`http://localost:4000/products/1`
+method:"delete"
+

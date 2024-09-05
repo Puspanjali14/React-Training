@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": "fe02",
+      "name": "laptop",
+      "price": "10000",
+      "quantity": "12",
+      "isInShop": true,
+      "country": "nepal"
+    },
+    {
+      "id": "d48d",
+      "name": "laptop",
+      "price": "10000",
+      "quantity": "12",
+      "isInShop": true,
+      "country": "nepal"
+    },
+    {
+      "id": "20a9",
+      "name": "mobile",
+      "price": "1000",
+      "quantity": "10",
+      "isInShop": true,
+      "country": "pakistan"
+    },
+    {
+      "id": "77e3",
+      "name": "laptop",
+      "price": "1000",
+      "quantity": "10",
+      "isInShop": true,
+      "country": "nepal"
+    },
+    {
+      "id": "3c65",
+      "name": "laptop",
+      "price": "1000",
+      "quantity": "10",
+      "isInShop": true,
+      "country": "nepal"
+    },
+    {
+      "id": "8a70",
+      "name": "laptop",
+      "price": "",
+      "quantity": "",
+      "isInShop": true,
+      "country": "nepal"
+    }
+  ]
+}
