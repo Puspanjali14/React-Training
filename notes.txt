@@ -1,0 +1,10 @@
+javascript:
+    1. single threaded
+    2. synchronous
+    3. blocking language
+() =  paranthesis
+{} =  block, curlybracess
+[] =  array
+
+//[1,2,3]=[11,12,13]
+//[1,2,3]=[0,2,6]

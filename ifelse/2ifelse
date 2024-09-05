@@ -1,0 +1,20 @@
+/*
+male => "he is male"
+female => "she is female"
+other => "they are other"
+else => "invalid gender"
+*/
+let gender ="ac";
+if (gender==="male"){
+    console.log("he is male")
+}
+else if (gender === "female"){
+    console.log("she is female")
+}
+else if(gender === "other"){
+console.log("they are other")
+} 
+else {
+    console.log("invalid gender")
+}
+// only one block will execute
