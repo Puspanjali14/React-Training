@@ -37,7 +37,6 @@ This section explains working with strings and literals:
 
 ## 6. Date Handling (date folder)
 This section covers operations related to dates:
-
 1date.mjs: Basic date operations.
 data.mjs: Additional date manipulation techniques.
 day1.mjs: Date examples for specific use cases.
