@@ -42,8 +42,10 @@ This section covers operations related to dates:
 data.mjs: Additional date manipulation techniques.
 day1.mjs: Date examples for specific use cases.
 
+
 ## 7. Miscellaneous Files
 duplicatevar.mjs: Handling duplicate variable declarations.
+
 namingconvention.mjs: Following proper naming conventions in JavaScript.
 variable.mjs: Understanding variable declarations.
 notes.txt: General notes and information about the project.
